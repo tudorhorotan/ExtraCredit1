@@ -1,0 +1,15 @@
+﻿  PB1.cpp
+D:\Facultate\sem2\OOP\ExtraCredit1\PB1.cpp(5,66): error C2760: syntax error: ';' was unexpected here; expected ']'
+D:\Facultate\sem2\OOP\ExtraCredit1\PB1.cpp(5,79): error C2143: syntax error: missing ',' before ']'
+D:\Facultate\sem2\OOP\ExtraCredit1\PB1.cpp(11,38): error C2146: syntax error: missing ')' before identifier 'i'
+D:\Facultate\sem2\OOP\ExtraCredit1\PB1.cpp(11,36): error C2059: syntax error: ';'
+D:\Facultate\sem2\OOP\ExtraCredit1\PB1.cpp(11,41): error C2059: syntax error: ')'
+D:\Facultate\sem2\OOP\ExtraCredit1\PB1.cpp(12,4): error C2059: syntax error: 'if'
+D:\Facultate\sem2\OOP\ExtraCredit1\PB1.cpp(12,23): error C2143: syntax error: missing ';' before '{'
+D:\Facultate\sem2\OOP\ExtraCredit1\PB1.cpp(13,18): error C2065: 'i': undeclared identifier
+D:\Facultate\sem2\OOP\ExtraCredit1\PB1.cpp(13,23): error C2065: 'value': undeclared identifier
+D:\Facultate\sem2\OOP\ExtraCredit1\PB1.cpp(14,6): error C2181: illegal else without matching if
+D:\Facultate\sem2\OOP\ExtraCredit1\PB1.cpp(19,1): error C2059: syntax error: '}'
+D:\Facultate\sem2\OOP\ExtraCredit1\PB1.cpp(19,1): error C2143: syntax error: missing ';' before '}'
+D:\Facultate\sem2\OOP\ExtraCredit1\PB1.cpp(23,12): error C2143: syntax error: missing ';' before '{'
+D:\Facultate\sem2\OOP\ExtraCredit1\PB1.cpp(23,12): error C2447: '{': missing function header (old-style formal list?)
